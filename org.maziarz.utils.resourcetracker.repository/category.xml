@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.maziarz.utils.resourcetracker.feature_0.0.1.qualifier.jar" id="org.maziarz.utils.resourcetracker.feature" version="0.0.1.qualifier">
+      <category name="org.maziarz.utils"/>
+   </feature>
+   <category-def name="org.maziarz.utils" label="OM&gt;Utilities"/>
+</site>
